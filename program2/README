@@ -1,0 +1,4 @@
+Program was written using python3. 
+Game is run through GameDriver.py
+$python3 GameDriver.py human minimax
+After the human enters a move it will take about 15 seconds before the ai will make a move
