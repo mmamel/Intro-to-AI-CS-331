@@ -1,0 +1,8 @@
+Accuracy = 0.9498997995991983
+Training: trainingSet.txt Testing: trainingSet.txt
+Accuracy = 0.781563126252505
+Training: trainingSet.txt Testing: testSet.txt
+Accuracy = 0.9498997995991983
+Training: trainingSet.txt Testing: trainingSet.txt
+Accuracy = 0.781563126252505
+Training: trainingSet.txt Testing: testSet.txt

@@ -1,0 +1,7 @@
+Program is run on OSU linux server
+To execute program run command
+$ python3 main.py 
+It will automatically grab testSet.txt and trainingSet.txt
+*Note data must be in the same directory as main.py
+Feature data will be outputed to preprocessed_training.txt, preprocessed_test.txt
+Accuracy will be outputed to results.txt
